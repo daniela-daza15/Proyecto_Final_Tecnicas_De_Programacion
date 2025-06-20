@@ -65,4 +65,4 @@ Persistencia con JDBC y MySQL.
 📌 Autor
 Daniela Esperanza Daza Salgado
 Estudiante de Técnicas de Programación
-Junio 2025
+- Junio 2025
